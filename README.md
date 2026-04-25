@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyamjh07/satyamjh07/main/banner for github.png" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=ZEROday+—+No+Excuses;Discipline+>+Motivation;Build.+Focus.+Repeat." />
+</p>
+
+# ⚡ Satyam Jha
 # Hi, I'm Satyam 👋
 
 🚀 Building ZEROday — a discipline system for students  
@@ -45,3 +54,9 @@ Open to collaborations in building products which help people to improve their l
 ![Stats](https://github-readme-stats.vercel.app/api?username=satyamjh07&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=satyamjh07&theme=tokyonight)
+
+## 💭 Philosophy
+
+> Discipline > Motivation  
+> Execution > Perfection  
+> Consistency > Intensity  
