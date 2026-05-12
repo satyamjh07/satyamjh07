@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=ZEROday+-+No+Excuses;Discipline+%3E+Motivation;Build.+Focus.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=SolvingMinds+-+No+Excuses;Discipline+%3E+Motivation;Build.+Focus.+Repeat." />
 </p>
 
 # Hi, I'm Satyam 👋
